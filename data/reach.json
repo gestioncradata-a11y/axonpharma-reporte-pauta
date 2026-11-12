@@ -1,6 +1,6 @@
 {
   "source": "Meta+TikTok reach mensual único",
-  "updated": "2026-11-11T18:41:02.766Z",
+  "updated": "2026-11-12T15:47:21.931Z",
   "months": {
     "2025-05": {
       "May25_CO_AxonPharma_MARIMER_FB/IG_Awareness": {
@@ -708,24 +708,36 @@
     },
     "2026-11": {
       "Nov26_CO_AxonPharma_A-CERUMEN_FB/IG_Traffic_$ 4,504,500": {
-        "reach": 205376,
-        "freq": 1.5937
+        "reach": 211421,
+        "freq": 1.5997
       },
       "Nov26_CO_AxonPharma_MARIMER_FB/IG_Awareness -PATROCINADO": {
-        "reach": 545179,
-        "freq": 1.5465
+        "reach": 552666,
+        "freq": 1.539
       },
       "Nov26_CO_AxonPharma_MARIMER_FB/IG_Traffic $9,667,766- 01-30 Nov": {
-        "reach": 352618,
-        "freq": 1.9698
+        "reach": 361563,
+        "freq": 1.9781
       },
       "Nov26_CO_AxonPharma_FLORATIL_FB/IG_Awareness_$5,600,000 - 01-30 Nov": {
-        "reach": 1288922,
-        "freq": 1.9357
+        "reach": 1296813,
+        "freq": 1.9482
       },
       "Nov26_CO_AxonPharma_FLORATIL_FB/IG_Traffic _$12,000,000-01- 30 Nov": {
-        "reach": 517987,
-        "freq": 1.8349
+        "reach": 535729,
+        "freq": 1.8305
+      },
+      "COPIA - Nov26_AXONPHARMA_Floratil_Traffic_$2,744.33_11-30 Nov": {
+        "reach": 30397,
+        "freq": 3.5862
+      },
+      "COPIA - Nov26_AXONPHARMA_Marimer_Traffic_$1,184.01_11-30 Nov": {
+        "reach": 19813,
+        "freq": 2.5121
+      },
+      "COPIA - Novt26_AXONPHARMA_A-Cerumen_Traffic_$713.06- 11- 30 Nov": {
+        "reach": 9728,
+        "freq": 2.9772
       },
       "Nov26_AXONPHARMA_Floratil_Traffic_$4,061.23_01-30 Nov": {
         "reach": 225350,

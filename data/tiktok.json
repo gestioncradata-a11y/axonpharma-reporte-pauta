@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T18:41:02.415Z",
+  "updated": "2026-11-12T15:47:13.632Z",
   "account": {
     "id": "7512240273293279239",
     "name": "CO_AxonPharma_GarnierCOLOMBIA",
@@ -14601,6 +14601,96 @@
       "cpc": 17.27,
       "cpm": 3256.16,
       "ctr": 18.8517
+    },
+    {
+      "campaign": "COPIA - Novt26_AXONPHARMA_A-Cerumen_Traffic_$713.06- 11- 30 Nov ",
+      "objective": "LINK_CLICKS",
+      "date": "2026-11-11",
+      "spend": 51870,
+      "impressions": 16083,
+      "reach": 8750,
+      "frequency": 1.8381,
+      "clicks": 3059,
+      "link_clicks": 3059,
+      "views": 0,
+      "cpc": 16.96,
+      "cpm": 3225.14,
+      "ctr": 19.0201
+    },
+    {
+      "campaign": "COPIA - Nov26_AXONPHARMA_Floratil_Traffic_$2,744.33_11-30 Nov",
+      "objective": "LINK_CLICKS",
+      "date": "2026-11-11",
+      "spend": 424574,
+      "impressions": 87132,
+      "reach": 29081,
+      "frequency": 2.9962,
+      "clicks": 30055,
+      "link_clicks": 30055,
+      "views": 0,
+      "cpc": 14.13,
+      "cpm": 4872.77,
+      "ctr": 34.4936
+    },
+    {
+      "campaign": "COPIA - Nov26_AXONPHARMA_Marimer_Traffic_$1,184.01_11-30 Nov",
+      "objective": "LINK_CLICKS",
+      "date": "2026-11-11",
+      "spend": 165034,
+      "impressions": 30884,
+      "reach": 18006,
+      "frequency": 1.7152,
+      "clicks": 9002,
+      "link_clicks": 9002,
+      "views": 0,
+      "cpc": 18.33,
+      "cpm": 5343.67,
+      "ctr": 29.1478
+    },
+    {
+      "campaign": "COPIA - Nov26_AXONPHARMA_Marimer_Traffic_$1,184.01_11-30 Nov",
+      "objective": "LINK_CLICKS",
+      "date": "2026-11-12",
+      "spend": 73378,
+      "impressions": 18888,
+      "reach": 1907,
+      "frequency": 9.9046,
+      "clicks": 3991,
+      "link_clicks": 3991,
+      "views": 0,
+      "cpc": 18.39,
+      "cpm": 3884.9,
+      "ctr": 21.1298
+    },
+    {
+      "campaign": "COPIA - Nov26_AXONPHARMA_Floratil_Traffic_$2,744.33_11-30 Nov",
+      "objective": "LINK_CLICKS",
+      "date": "2026-11-12",
+      "spend": 109972,
+      "impressions": 21878,
+      "reach": 2231,
+      "frequency": 9.8064,
+      "clicks": 6957,
+      "link_clicks": 6957,
+      "views": 0,
+      "cpc": 15.81,
+      "cpm": 5026.6,
+      "ctr": 31.7991
+    },
+    {
+      "campaign": "COPIA - Novt26_AXONPHARMA_A-Cerumen_Traffic_$713.06- 11- 30 Nov ",
+      "objective": "LINK_CLICKS",
+      "date": "2026-11-12",
+      "spend": 45144,
+      "impressions": 12879,
+      "reach": 1064,
+      "frequency": 12.1043,
+      "clicks": 2422,
+      "link_clicks": 2422,
+      "views": 0,
+      "cpc": 18.64,
+      "cpm": 3505.24,
+      "ctr": 18.8058
     }
   ]
 }
