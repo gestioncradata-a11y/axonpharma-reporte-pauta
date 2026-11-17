@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T18:43:16.608Z",
+  "updated": "2026-11-17T15:44:28.444Z",
   "account": {
     "id": "7512240273293279239",
     "name": "CO_AxonPharma_GarnierCOLOMBIA",
@@ -13313,21 +13313,6 @@
       "ctr": 14.9938
     },
     {
-      "campaign": "Oct26_AXONPHARMA_Marimer_Traffic",
-      "objective": "LINK_CLICKS",
-      "date": "2026-10-13",
-      "spend": 195282,
-      "impressions": 84041,
-      "reach": 28801,
-      "frequency": 2.918,
-      "clicks": 11902,
-      "link_clicks": 11902,
-      "views": 0,
-      "cpc": 16.41,
-      "cpm": 2323.65,
-      "ctr": 14.1621
-    },
-    {
       "campaign": "Oct26_AXONPHARMA_Floratil_Traffic",
       "objective": "LINK_CLICKS",
       "date": "2026-10-13",
@@ -13341,6 +13326,21 @@
       "cpc": 16.81,
       "cpm": 2440.52,
       "ctr": 14.5201
+    },
+    {
+      "campaign": "Oct26_AXONPHARMA_Marimer_Traffic",
+      "objective": "LINK_CLICKS",
+      "date": "2026-10-13",
+      "spend": 195282,
+      "impressions": 84041,
+      "reach": 28801,
+      "frequency": 2.918,
+      "clicks": 11902,
+      "link_clicks": 11902,
+      "views": 0,
+      "cpc": 16.41,
+      "cpm": 2323.65,
+      "ctr": 14.1621
     },
     {
       "campaign": "Oct26_AXONPHARMA_Floratil_Traffic",
@@ -13478,36 +13478,6 @@
       "ctr": 17.9475
     },
     {
-      "campaign": "Oct26_AXONPHARMA_Floratil_Traffic",
-      "objective": "LINK_CLICKS",
-      "date": "2026-10-17",
-      "spend": 579956,
-      "impressions": 170918,
-      "reach": 76272,
-      "frequency": 2.2409,
-      "clicks": 29118,
-      "link_clicks": 29118,
-      "views": 0,
-      "cpc": 19.92,
-      "cpm": 3393.18,
-      "ctr": 17.0362
-    },
-    {
-      "campaign": "Oct26_AXONPHARMA_A-Cerumen_Traffic",
-      "objective": "LINK_CLICKS",
-      "date": "2026-10-17",
-      "spend": 233282,
-      "impressions": 85470,
-      "reach": 33580,
-      "frequency": 2.5453,
-      "clicks": 12014,
-      "link_clicks": 12014,
-      "views": 0,
-      "cpc": 19.42,
-      "cpm": 2729.4,
-      "ctr": 14.0564
-    },
-    {
       "campaign": "Oct26_AXONPHARMA_Marimer_Traffic",
       "objective": "LINK_CLICKS",
       "date": "2026-10-17",
@@ -13525,6 +13495,36 @@
     {
       "campaign": "Oct26_AXONPHARMA_A-Cerumen_Traffic",
       "objective": "LINK_CLICKS",
+      "date": "2026-10-17",
+      "spend": 233282,
+      "impressions": 85470,
+      "reach": 33580,
+      "frequency": 2.5453,
+      "clicks": 12014,
+      "link_clicks": 12014,
+      "views": 0,
+      "cpc": 19.42,
+      "cpm": 2729.4,
+      "ctr": 14.0564
+    },
+    {
+      "campaign": "Oct26_AXONPHARMA_Floratil_Traffic",
+      "objective": "LINK_CLICKS",
+      "date": "2026-10-17",
+      "spend": 579956,
+      "impressions": 170918,
+      "reach": 76272,
+      "frequency": 2.2409,
+      "clicks": 29118,
+      "link_clicks": 29118,
+      "views": 0,
+      "cpc": 19.92,
+      "cpm": 3393.18,
+      "ctr": 17.0362
+    },
+    {
+      "campaign": "Oct26_AXONPHARMA_A-Cerumen_Traffic",
+      "objective": "LINK_CLICKS",
       "date": "2026-10-18",
       "spend": 234764,
       "impressions": 79548,
@@ -13536,21 +13536,6 @@
       "cpc": 17.45,
       "cpm": 2951.22,
       "ctr": 16.9143
-    },
-    {
-      "campaign": "Oct26_AXONPHARMA_Marimer_Traffic",
-      "objective": "LINK_CLICKS",
-      "date": "2026-10-18",
-      "spend": 190874,
-      "impressions": 86067,
-      "reach": 24549,
-      "frequency": 3.5059,
-      "clicks": 10549,
-      "link_clicks": 10549,
-      "views": 0,
-      "cpc": 18.09,
-      "cpm": 2217.74,
-      "ctr": 12.2567
     },
     {
       "campaign": "Oct26_AXONPHARMA_Floratil_Traffic",
@@ -13566,6 +13551,21 @@
       "cpc": 18.36,
       "cpm": 3371.47,
       "ctr": 18.3643
+    },
+    {
+      "campaign": "Oct26_AXONPHARMA_Marimer_Traffic",
+      "objective": "LINK_CLICKS",
+      "date": "2026-10-18",
+      "spend": 190874,
+      "impressions": 86067,
+      "reach": 24549,
+      "frequency": 3.5059,
+      "clicks": 10549,
+      "link_clicks": 10549,
+      "views": 0,
+      "cpc": 18.09,
+      "cpm": 2217.74,
+      "ctr": 12.2567
     },
     {
       "campaign": "Oct26_AXONPHARMA_Floratil_Traffic",
@@ -13613,21 +13613,6 @@
       "ctr": 15.8881
     },
     {
-      "campaign": "Oct26_AXONPHARMA_Marimer_Traffic",
-      "objective": "LINK_CLICKS",
-      "date": "2026-10-20",
-      "spend": 190000,
-      "impressions": 59974,
-      "reach": 15374,
-      "frequency": 3.901,
-      "clicks": 11606,
-      "link_clicks": 11606,
-      "views": 0,
-      "cpc": 16.37,
-      "cpm": 3168.04,
-      "ctr": 19.3517
-    },
-    {
       "campaign": "Oct26_AXONPHARMA_A-Cerumen_Traffic",
       "objective": "LINK_CLICKS",
       "date": "2026-10-20",
@@ -13656,6 +13641,21 @@
       "cpc": 16.18,
       "cpm": 2901.08,
       "ctr": 17.9323
+    },
+    {
+      "campaign": "Oct26_AXONPHARMA_Marimer_Traffic",
+      "objective": "LINK_CLICKS",
+      "date": "2026-10-20",
+      "spend": 190000,
+      "impressions": 59974,
+      "reach": 15374,
+      "frequency": 3.901,
+      "clicks": 11606,
+      "link_clicks": 11606,
+      "views": 0,
+      "cpc": 16.37,
+      "cpm": 3168.04,
+      "ctr": 19.3517
     },
     {
       "campaign": "Oct26_AXONPHARMA_Marimer_Traffic",
@@ -13808,21 +13808,6 @@
       "ctr": 15.5203
     },
     {
-      "campaign": "Oct26_AXONPHARMA_Floratil_Traffic",
-      "objective": "LINK_CLICKS",
-      "date": "2026-10-24",
-      "spend": 572508,
-      "impressions": 217128,
-      "reach": 60626,
-      "frequency": 3.5814,
-      "clicks": 43026,
-      "link_clicks": 43026,
-      "views": 0,
-      "cpc": 13.31,
-      "cpm": 2636.73,
-      "ctr": 19.816
-    },
-    {
       "campaign": "Oct26_AXONPHARMA_A-Cerumen_Traffic",
       "objective": "LINK_CLICKS",
       "date": "2026-10-24",
@@ -13836,6 +13821,21 @@
       "cpc": 13.43,
       "cpm": 2417.38,
       "ctr": 17.9979
+    },
+    {
+      "campaign": "Oct26_AXONPHARMA_Floratil_Traffic",
+      "objective": "LINK_CLICKS",
+      "date": "2026-10-24",
+      "spend": 572508,
+      "impressions": 217128,
+      "reach": 60626,
+      "frequency": 3.5814,
+      "clicks": 43026,
+      "link_clicks": 43026,
+      "views": 0,
+      "cpc": 13.31,
+      "cpm": 2636.73,
+      "ctr": 19.816
     },
     {
       "campaign": "Oct26_AXONPHARMA_A-Cerumen_Traffic",
@@ -13898,6 +13898,21 @@
       "ctr": 16.8635
     },
     {
+      "campaign": "Oct26_AXONPHARMA_Floratil_Traffic",
+      "objective": "LINK_CLICKS",
+      "date": "2026-10-26",
+      "spend": 560576,
+      "impressions": 258585,
+      "reach": 56047,
+      "frequency": 4.6137,
+      "clicks": 46441,
+      "link_clicks": 46441,
+      "views": 0,
+      "cpc": 12.07,
+      "cpm": 2167.86,
+      "ctr": 17.9597
+    },
+    {
       "campaign": "Oct26_AXONPHARMA_A-Cerumen_Traffic",
       "objective": "LINK_CLICKS",
       "date": "2026-10-26",
@@ -13913,19 +13928,19 @@
       "ctr": 16.6122
     },
     {
-      "campaign": "Oct26_AXONPHARMA_Floratil_Traffic",
+      "campaign": "Oct26_AXONPHARMA_A-Cerumen_Traffic",
       "objective": "LINK_CLICKS",
-      "date": "2026-10-26",
-      "spend": 560576,
-      "impressions": 258585,
-      "reach": 56047,
-      "frequency": 4.6137,
-      "clicks": 46441,
-      "link_clicks": 46441,
+      "date": "2026-10-27",
+      "spend": 221768,
+      "impressions": 127050,
+      "reach": 24698,
+      "frequency": 5.1441,
+      "clicks": 18851,
+      "link_clicks": 18851,
       "views": 0,
-      "cpc": 12.07,
-      "cpm": 2167.86,
-      "ctr": 17.9597
+      "cpc": 11.76,
+      "cpm": 1745.52,
+      "ctr": 14.8375
     },
     {
       "campaign": "Oct26_AXONPHARMA_Floratil_Traffic",
@@ -13958,19 +13973,19 @@
       "ctr": 17.3939
     },
     {
-      "campaign": "Oct26_AXONPHARMA_A-Cerumen_Traffic",
+      "campaign": "Oct26_AXONPHARMA_Marimer_Traffic",
       "objective": "LINK_CLICKS",
-      "date": "2026-10-27",
-      "spend": 221768,
-      "impressions": 127050,
-      "reach": 24698,
-      "frequency": 5.1441,
-      "clicks": 18851,
-      "link_clicks": 18851,
+      "date": "2026-10-28",
+      "spend": 179094,
+      "impressions": 96687,
+      "reach": 20522,
+      "frequency": 4.7114,
+      "clicks": 15639,
+      "link_clicks": 15639,
       "views": 0,
-      "cpc": 11.76,
-      "cpm": 1745.52,
-      "ctr": 14.8375
+      "cpc": 11.45,
+      "cpm": 1852.31,
+      "ctr": 16.1749
     },
     {
       "campaign": "Oct26_AXONPHARMA_A-Cerumen_Traffic",
@@ -13986,21 +14001,6 @@
       "cpc": 11.09,
       "cpm": 1969.01,
       "ctr": 17.7614
-    },
-    {
-      "campaign": "Oct26_AXONPHARMA_Marimer_Traffic",
-      "objective": "LINK_CLICKS",
-      "date": "2026-10-28",
-      "spend": 179094,
-      "impressions": 96687,
-      "reach": 20522,
-      "frequency": 4.7114,
-      "clicks": 15639,
-      "link_clicks": 15639,
-      "views": 0,
-      "cpc": 11.45,
-      "cpm": 1852.31,
-      "ctr": 16.1749
     },
     {
       "campaign": "Oct26_AXONPHARMA_Floratil_Traffic",
@@ -14198,21 +14198,6 @@
       "ctr": 25.8867
     },
     {
-      "campaign": "Nov26_AXONPHARMA_Marimer_Traffic_$2,499_01-30 Nov",
-      "objective": "LINK_CLICKS",
-      "date": "2026-11-02",
-      "spend": 315590,
-      "impressions": 148706,
-      "reach": 22031,
-      "frequency": 6.7499,
-      "clicks": 42676,
-      "link_clicks": 42676,
-      "views": 0,
-      "cpc": 7.4,
-      "cpm": 2122.24,
-      "ctr": 28.6982
-    },
-    {
       "campaign": "Nov26_AXONPHARMA_Floratil_Traffic_$4,061.23_01-30 Nov",
       "objective": "LINK_CLICKS",
       "date": "2026-11-02",
@@ -14241,6 +14226,21 @@
       "cpc": 7.28,
       "cpm": 2067.87,
       "ctr": 28.4211
+    },
+    {
+      "campaign": "Nov26_AXONPHARMA_Marimer_Traffic_$2,499_01-30 Nov",
+      "objective": "LINK_CLICKS",
+      "date": "2026-11-02",
+      "spend": 315590,
+      "impressions": 148706,
+      "reach": 22031,
+      "frequency": 6.7499,
+      "clicks": 42676,
+      "link_clicks": 42676,
+      "views": 0,
+      "cpc": 7.4,
+      "cpm": 2122.24,
+      "ctr": 28.6982
     },
     {
       "campaign": "Novt26_AXONPHARMA_A-Cerumen_Traffic_$1,072.16- 01- 30 Nov ",
@@ -14378,21 +14378,6 @@
       "ctr": 36.3802
     },
     {
-      "campaign": "Nov26_AXONPHARMA_Floratil_Traffic_$4,061.23_01-30 Nov",
-      "objective": "LINK_CLICKS",
-      "date": "2026-11-06",
-      "spend": 512354,
-      "impressions": 119169,
-      "reach": 34265,
-      "frequency": 3.4779,
-      "clicks": 36098,
-      "link_clicks": 36098,
-      "views": 0,
-      "cpc": 14.19,
-      "cpm": 4299.39,
-      "ctr": 30.2914
-    },
-    {
       "campaign": "Novt26_AXONPHARMA_A-Cerumen_Traffic_$1,072.16- 01- 30 Nov ",
       "objective": "LINK_CLICKS",
       "date": "2026-11-06",
@@ -14406,6 +14391,21 @@
       "cpc": 18.06,
       "cpm": 7128.59,
       "ctr": 39.4648
+    },
+    {
+      "campaign": "Nov26_AXONPHARMA_Floratil_Traffic_$4,061.23_01-30 Nov",
+      "objective": "LINK_CLICKS",
+      "date": "2026-11-06",
+      "spend": 512354,
+      "impressions": 119169,
+      "reach": 34265,
+      "frequency": 3.4779,
+      "clicks": 36098,
+      "link_clicks": 36098,
+      "views": 0,
+      "cpc": 14.19,
+      "cpm": 4299.39,
+      "ctr": 30.2914
     },
     {
       "campaign": "Nov26_AXONPHARMA_Marimer_Traffic_$2,499_01-30 Nov",
@@ -14438,21 +14438,6 @@
       "ctr": 30.482
     },
     {
-      "campaign": "Novt26_AXONPHARMA_A-Cerumen_Traffic_$1,072.16- 01- 30 Nov ",
-      "objective": "LINK_CLICKS",
-      "date": "2026-11-07",
-      "spend": 136002,
-      "impressions": 18028,
-      "reach": 13906,
-      "frequency": 1.2964,
-      "clicks": 7048,
-      "link_clicks": 7048,
-      "views": 0,
-      "cpc": 19.3,
-      "cpm": 7543.93,
-      "ctr": 39.0947
-    },
-    {
       "campaign": "Nov26_AXONPHARMA_Marimer_Traffic_$2,499_01-30 Nov",
       "objective": "LINK_CLICKS",
       "date": "2026-11-07",
@@ -14468,19 +14453,19 @@
       "ctr": 9.1267
     },
     {
-      "campaign": "Nov26_AXONPHARMA_Marimer_Traffic_$2,499_01-30 Nov",
+      "campaign": "Novt26_AXONPHARMA_A-Cerumen_Traffic_$1,072.16- 01- 30 Nov ",
       "objective": "LINK_CLICKS",
-      "date": "2026-11-08",
-      "spend": 316616,
-      "impressions": 146690,
-      "reach": 56959,
-      "frequency": 2.5754,
-      "clicks": 17865,
-      "link_clicks": 17865,
+      "date": "2026-11-07",
+      "spend": 136002,
+      "impressions": 18028,
+      "reach": 13906,
+      "frequency": 1.2964,
+      "clicks": 7048,
+      "link_clicks": 7048,
       "views": 0,
-      "cpc": 17.72,
-      "cpm": 2158.4,
-      "ctr": 12.1787
+      "cpc": 19.3,
+      "cpm": 7543.93,
+      "ctr": 39.0947
     },
     {
       "campaign": "Novt26_AXONPHARMA_A-Cerumen_Traffic_$1,072.16- 01- 30 Nov ",
@@ -14498,6 +14483,21 @@
       "ctr": 32.0086
     },
     {
+      "campaign": "Nov26_AXONPHARMA_Marimer_Traffic_$2,499_01-30 Nov",
+      "objective": "LINK_CLICKS",
+      "date": "2026-11-08",
+      "spend": 316616,
+      "impressions": 146690,
+      "reach": 56959,
+      "frequency": 2.5754,
+      "clicks": 17865,
+      "link_clicks": 17865,
+      "views": 0,
+      "cpc": 17.72,
+      "cpm": 2158.4,
+      "ctr": 12.1787
+    },
+    {
       "campaign": "Nov26_AXONPHARMA_Floratil_Traffic_$4,061.23_01-30 Nov",
       "objective": "LINK_CLICKS",
       "date": "2026-11-08",
@@ -14511,6 +14511,21 @@
       "cpc": 14.92,
       "cpm": 4674.59,
       "ctr": 31.3299
+    },
+    {
+      "campaign": "Novt26_AXONPHARMA_A-Cerumen_Traffic_$1,072.16- 01- 30 Nov ",
+      "objective": "LINK_CLICKS",
+      "date": "2026-11-09",
+      "spend": 137142,
+      "impressions": 17320,
+      "reach": 13532,
+      "frequency": 1.2799,
+      "clicks": 7201,
+      "link_clicks": 7201,
+      "views": 0,
+      "cpc": 19.04,
+      "cpm": 7918.13,
+      "ctr": 41.5762
     },
     {
       "campaign": "Nov26_AXONPHARMA_Floratil_Traffic_$4,061.23_01-30 Nov",
@@ -14545,17 +14560,17 @@
     {
       "campaign": "Novt26_AXONPHARMA_A-Cerumen_Traffic_$1,072.16- 01- 30 Nov ",
       "objective": "LINK_CLICKS",
-      "date": "2026-11-09",
-      "spend": 137142,
-      "impressions": 17320,
-      "reach": 13532,
-      "frequency": 1.2799,
-      "clicks": 7201,
-      "link_clicks": 7201,
+      "date": "2026-11-10",
+      "spend": 134026,
+      "impressions": 18076,
+      "reach": 14312,
+      "frequency": 1.263,
+      "clicks": 7468,
+      "link_clicks": 7468,
       "views": 0,
-      "cpc": 19.04,
-      "cpm": 7918.13,
-      "ctr": 41.5762
+      "cpc": 17.95,
+      "cpm": 7414.58,
+      "ctr": 41.3145
     },
     {
       "campaign": "Nov26_AXONPHARMA_Floratil_Traffic_$4,061.23_01-30 Nov",
@@ -14573,21 +14588,6 @@
       "ctr": 32.9933
     },
     {
-      "campaign": "Novt26_AXONPHARMA_A-Cerumen_Traffic_$1,072.16- 01- 30 Nov ",
-      "objective": "LINK_CLICKS",
-      "date": "2026-11-10",
-      "spend": 134026,
-      "impressions": 18076,
-      "reach": 14312,
-      "frequency": 1.263,
-      "clicks": 7468,
-      "link_clicks": 7468,
-      "views": 0,
-      "cpc": 17.95,
-      "cpm": 7414.58,
-      "ctr": 41.3145
-    },
-    {
       "campaign": "Nov26_AXONPHARMA_Marimer_Traffic_$2,499_01-30 Nov",
       "objective": "LINK_CLICKS",
       "date": "2026-11-10",
@@ -14601,21 +14601,6 @@
       "cpc": 17.27,
       "cpm": 3256.16,
       "ctr": 18.8517
-    },
-    {
-      "campaign": "COPIA - Novt26_AXONPHARMA_A-Cerumen_Traffic_$713.06- 11- 30 Nov ",
-      "objective": "LINK_CLICKS",
-      "date": "2026-11-11",
-      "spend": 51870,
-      "impressions": 16066,
-      "reach": 8750,
-      "frequency": 1.8361,
-      "clicks": 3048,
-      "link_clicks": 3048,
-      "views": 0,
-      "cpc": 17.02,
-      "cpm": 3228.56,
-      "ctr": 18.9717
     },
     {
       "campaign": "COPIA - Nov26_AXONPHARMA_Floratil_Traffic_$2,744.33_11-30 Nov",
@@ -14648,6 +14633,36 @@
       "ctr": 29.1352
     },
     {
+      "campaign": "COPIA - Novt26_AXONPHARMA_A-Cerumen_Traffic_$713.06- 11- 30 Nov ",
+      "objective": "LINK_CLICKS",
+      "date": "2026-11-11",
+      "spend": 51870,
+      "impressions": 16066,
+      "reach": 8750,
+      "frequency": 1.8361,
+      "clicks": 3048,
+      "link_clicks": 3048,
+      "views": 0,
+      "cpc": 17.02,
+      "cpm": 3228.56,
+      "ctr": 18.9717
+    },
+    {
+      "campaign": "COPIA - Novt26_AXONPHARMA_A-Cerumen_Traffic_$713.06- 11- 30 Nov ",
+      "objective": "LINK_CLICKS",
+      "date": "2026-11-12",
+      "spend": 150632,
+      "impressions": 71527,
+      "reach": 31087,
+      "frequency": 2.3009,
+      "clicks": 8503,
+      "link_clicks": 8503,
+      "views": 0,
+      "cpc": 17.72,
+      "cpm": 2105.95,
+      "ctr": 11.8878
+    },
+    {
       "campaign": "COPIA - Nov26_AXONPHARMA_Marimer_Traffic_$1,184.01_11-30 Nov",
       "objective": "LINK_CLICKS",
       "date": "2026-11-12",
@@ -14676,21 +14691,6 @@
       "cpc": 14.72,
       "cpm": 4684.73,
       "ctr": 31.8295
-    },
-    {
-      "campaign": "COPIA - Novt26_AXONPHARMA_A-Cerumen_Traffic_$713.06- 11- 30 Nov ",
-      "objective": "LINK_CLICKS",
-      "date": "2026-11-12",
-      "spend": 150632,
-      "impressions": 71527,
-      "reach": 31087,
-      "frequency": 2.3009,
-      "clicks": 8503,
-      "link_clicks": 8503,
-      "views": 0,
-      "cpc": 17.72,
-      "cpm": 2105.95,
-      "ctr": 11.8878
     },
     {
       "campaign": "COPIA - Novt26_AXONPHARMA_A-Cerumen_Traffic_$713.06- 11- 30 Nov ",
@@ -14787,90 +14787,135 @@
       "objective": "LINK_CLICKS",
       "date": "2026-11-15",
       "spend": 146832,
-      "impressions": 48053,
+      "impressions": 48027,
       "reach": 22596,
-      "frequency": 2.1266,
-      "clicks": 9083,
-      "link_clicks": 9083,
+      "frequency": 2.1255,
+      "clicks": 9065,
+      "link_clicks": 9065,
       "views": 0,
-      "cpc": 16.17,
-      "cpm": 3055.63,
-      "ctr": 18.902
+      "cpc": 16.2,
+      "cpm": 3057.28,
+      "ctr": 18.8748
     },
     {
       "campaign": "COPIA - Nov26_AXONPHARMA_Marimer_Traffic_$1,184.01_11-30 Nov",
       "objective": "LINK_CLICKS",
       "date": "2026-11-15",
       "spend": 228266,
-      "impressions": 212833,
+      "impressions": 212777,
       "reach": 58223,
-      "frequency": 3.6555,
-      "clicks": 14407,
-      "link_clicks": 14407,
+      "frequency": 3.6545,
+      "clicks": 14395,
+      "link_clicks": 14395,
       "views": 0,
-      "cpc": 15.84,
-      "cpm": 1072.51,
-      "ctr": 6.7692
+      "cpc": 15.86,
+      "cpm": 1072.79,
+      "ctr": 6.7653
     },
     {
       "campaign": "COPIA - Nov26_AXONPHARMA_Floratil_Traffic_$2,744.33_11-30 Nov",
       "objective": "LINK_CLICKS",
       "date": "2026-11-15",
       "spend": 564946,
-      "impressions": 108491,
+      "impressions": 108485,
       "reach": 34668,
-      "frequency": 3.1294,
-      "clicks": 40382,
-      "link_clicks": 40382,
+      "frequency": 3.1293,
+      "clicks": 40377,
+      "link_clicks": 40377,
       "views": 0,
       "cpc": 13.99,
-      "cpm": 5207.31,
-      "ctr": 37.2215
+      "cpm": 5207.6,
+      "ctr": 37.219
     },
     {
       "campaign": "COPIA - Nov26_AXONPHARMA_Marimer_Traffic_$1,184.01_11-30 Nov",
       "objective": "LINK_CLICKS",
       "date": "2026-11-16",
-      "spend": 66880,
-      "impressions": 33957,
-      "reach": 4315,
-      "frequency": 7.8695,
-      "clicks": 4020,
-      "link_clicks": 4020,
+      "spend": 236512,
+      "impressions": 199308,
+      "reach": 62370,
+      "frequency": 3.1956,
+      "clicks": 15952,
+      "link_clicks": 15952,
       "views": 0,
-      "cpc": 16.64,
-      "cpm": 1969.55,
-      "ctr": 11.8385
+      "cpc": 14.83,
+      "cpm": 1186.67,
+      "ctr": 8.0037
     },
     {
       "campaign": "COPIA - Novt26_AXONPHARMA_A-Cerumen_Traffic_$713.06- 11- 30 Nov ",
       "objective": "LINK_CLICKS",
       "date": "2026-11-16",
-      "spend": 42522,
-      "impressions": 10803,
-      "reach": 1485,
-      "frequency": 7.2747,
-      "clicks": 2545,
-      "link_clicks": 2545,
+      "spend": 148390,
+      "impressions": 42261,
+      "reach": 19351,
+      "frequency": 2.1839,
+      "clicks": 9897,
+      "link_clicks": 9897,
       "views": 0,
-      "cpc": 16.71,
-      "cpm": 3936.13,
-      "ctr": 23.5583
+      "cpc": 14.99,
+      "cpm": 3511.28,
+      "ctr": 23.4188
     },
     {
       "campaign": "COPIA - Nov26_AXONPHARMA_Floratil_Traffic_$2,744.33_11-30 Nov",
       "objective": "LINK_CLICKS",
       "date": "2026-11-16",
-      "spend": 127794,
-      "impressions": 24640,
-      "reach": 3613,
-      "frequency": 6.8198,
-      "clicks": 9382,
-      "link_clicks": 9382,
+      "spend": 588810,
+      "impressions": 129300,
+      "reach": 46343,
+      "frequency": 2.7901,
+      "clicks": 46859,
+      "link_clicks": 46859,
       "views": 0,
-      "cpc": 13.62,
-      "cpm": 5186.44,
-      "ctr": 38.0763
+      "cpc": 12.57,
+      "cpm": 4553.83,
+      "ctr": 36.2405
+    },
+    {
+      "campaign": "COPIA - Nov26_AXONPHARMA_Floratil_Traffic_$2,744.33_11-30 Nov",
+      "objective": "LINK_CLICKS",
+      "date": "2026-11-17",
+      "spend": 111264,
+      "impressions": 21183,
+      "reach": 2451,
+      "frequency": 8.6426,
+      "clicks": 8326,
+      "link_clicks": 8326,
+      "views": 0,
+      "cpc": 13.36,
+      "cpm": 5252.51,
+      "ctr": 39.3051
+    },
+    {
+      "campaign": "COPIA - Novt26_AXONPHARMA_A-Cerumen_Traffic_$713.06- 11- 30 Nov ",
+      "objective": "LINK_CLICKS",
+      "date": "2026-11-17",
+      "spend": 36594,
+      "impressions": 7829,
+      "reach": 1297,
+      "frequency": 6.0362,
+      "clicks": 2339,
+      "link_clicks": 2339,
+      "views": 0,
+      "cpc": 15.65,
+      "cpm": 4674.16,
+      "ctr": 29.8761
+    },
+    {
+      "campaign": "COPIA - Nov26_AXONPHARMA_Marimer_Traffic_$1,184.01_11-30 Nov",
+      "objective": "LINK_CLICKS",
+      "date": "2026-11-17",
+      "spend": 60648,
+      "impressions": 21544,
+      "reach": 2473,
+      "frequency": 8.7117,
+      "clicks": 3868,
+      "link_clicks": 3868,
+      "views": 0,
+      "cpc": 15.68,
+      "cpm": 2815.08,
+      "ctr": 17.954
     }
   ]
 }
