@@ -1,6 +1,6 @@
 {
   "source": "Meta(image_url)+TikTok",
-  "updated": "2026-11-26T18:44:22.601Z",
+  "updated": "2026-11-27T15:58:24.936Z",
   "months": {
     "2026-01": {
       "FLORATIL": {
@@ -5528,114 +5528,114 @@
           {
             "thumbnail": "assets/creatives/2026-11/c405c698595c8d5c.jpg",
             "ad_name": "Nov26_CO_AxonPharma_A-CERUMEN_ADULTO_ANTIOQUIA_Unidrogas_Traffic_03-31Sep_Video 2",
-            "spend": 842070,
-            "impressions": 161260,
-            "clicks": 15556,
-            "cpm": 5221.82,
-            "cpc": 54.13,
-            "ctr": 9.65
+            "spend": 882073,
+            "impressions": 167692,
+            "clicks": 16135,
+            "cpm": 5260.08,
+            "cpc": 54.67,
+            "ctr": 9.62
           },
           {
             "thumbnail": "assets/creatives/2026-11/0a4a2161bad046b1.jpg",
             "ad_name": "Nov26_CO_AxonPharma_A-CERUMEN_ADULTO_ANTIOQUIA_Unidrogas_Traffic_03-31Sep_Video 1",
-            "spend": 206400,
-            "impressions": 47522,
-            "clicks": 4328,
-            "cpm": 4343.25,
-            "cpc": 47.69,
-            "ctr": 9.11
-          },
-          {
-            "thumbnail": "assets/creatives/2026-11/2970009b89d7efc9.jpg",
-            "ad_name": "Nov26_CO_AxonPharma_A-CERUMEN_ADULTO_Atlantico_Unidrogas_Traffic_03-31Sep_Video 2",
-            "spend": 503752,
-            "impressions": 91528,
-            "clicks": 7405,
-            "cpm": 5503.8,
-            "cpc": 68.03,
-            "ctr": 8.09
+            "spend": 210235,
+            "impressions": 48244,
+            "clicks": 4385,
+            "cpm": 4357.74,
+            "cpc": 47.94,
+            "ctr": 9.09
           },
           {
             "thumbnail": "assets/creatives/2026-11/39b2c60a5165f585.jpg",
             "ad_name": "Nov26_CO_AxonPharma_A-CERUMEN_ADULTO_Nacional_Cruz Verde_Traffic_03-30Sep_Video 2",
-            "spend": 203877,
-            "impressions": 38539,
-            "clicks": 3089,
-            "cpm": 5290.15,
-            "cpc": 66,
-            "ctr": 8.02
+            "spend": 230641,
+            "impressions": 42828,
+            "clicks": 3467,
+            "cpm": 5385.29,
+            "cpc": 66.52,
+            "ctr": 8.1
+          },
+          {
+            "thumbnail": "assets/creatives/2026-11/2970009b89d7efc9.jpg",
+            "ad_name": "Nov26_CO_AxonPharma_A-CERUMEN_ADULTO_Atlantico_Unidrogas_Traffic_03-31Sep_Video 2",
+            "spend": 509793,
+            "impressions": 92339,
+            "clicks": 7471,
+            "cpm": 5520.88,
+            "cpc": 68.24,
+            "ctr": 8.09
           },
           {
             "thumbnail": "assets/creatives/2026-11/aadd0fdf7cb2f0c3.jpg",
             "ad_name": "Nov26_CO_AxonPharma_A-CERUMEN_ADULTO_Nacional_Farmatodo_Traffic_03-31Sep_Video 2",
-            "spend": 169033,
-            "impressions": 34699,
-            "clicks": 2675,
-            "cpm": 4871.41,
-            "cpc": 63.19,
-            "ctr": 7.71
+            "spend": 171466,
+            "impressions": 35149,
+            "clicks": 2702,
+            "cpm": 4878.26,
+            "cpc": 63.46,
+            "ctr": 7.69
           },
           {
             "thumbnail": "assets/creatives/2026-11/a9aaf979e8a58c22.jpg",
             "ad_name": "Nov26_CO_AxonPharma_A-CERUMEN_ADULTO_Nacional_Farmatodo_Traffic_03-31Sep_Video 1",
-            "spend": 357383,
-            "impressions": 92032,
-            "clicks": 6780,
-            "cpm": 3883.25,
-            "cpc": 52.71,
-            "ctr": 7.37
+            "spend": 378951,
+            "impressions": 96563,
+            "clicks": 7145,
+            "cpm": 3924.39,
+            "cpc": 53.04,
+            "ctr": 7.4
           }
         ],
         "TikTok": [
           {
             "thumbnail": "assets/creatives/2026-11/d16fdefdc1475ee0.jpg",
             "ad_name": "Oct26_AXONPHARMA_ACerumen_Traffic_Post 1",
-            "spend": 1848966,
-            "impressions": 446845,
-            "clicks": 122392,
-            "cpm": 4137.82,
-            "cpc": 15.11,
-            "ctr": 27.39
+            "spend": 1930020,
+            "impressions": 466568,
+            "clicks": 127273,
+            "cpm": 4136.63,
+            "cpc": 15.16,
+            "ctr": 27.28
           },
           {
             "thumbnail": "assets/creatives/2026-11/9f578df24578b9ad.jpg",
             "ad_name": "Oct26_AXONPHARMA_ACerumen_Traffic_Post 3",
-            "spend": 105032,
-            "impressions": 43807,
-            "clicks": 11312,
-            "cpm": 2397.61,
-            "cpc": 9.29,
-            "ctr": 25.82
+            "spend": 105450,
+            "impressions": 43994,
+            "clicks": 11341,
+            "cpm": 2396.92,
+            "cpc": 9.3,
+            "ctr": 25.78
           },
           {
             "thumbnail": "assets/creatives/2026-11/edc552d9bb413c9c.jpg",
             "ad_name": "Oct26_AXONPHARMA_ACerumen_Traffic_$880_3897_1",
-            "spend": 1246248,
-            "impressions": 407621,
-            "clicks": 82292,
-            "cpm": 3057.37,
+            "spend": 1256432,
+            "impressions": 415369,
+            "clicks": 82966,
+            "cpm": 3024.86,
             "cpc": 15.14,
-            "ctr": 20.19
+            "ctr": 19.97
           },
           {
             "thumbnail": "assets/creatives/2026-11/0be872b0e6f45f43.jpg",
             "ad_name": "Oct26_AXONPHARMA_ACerumen_Traffic_Post 2",
-            "spend": 82726,
-            "impressions": 50981,
-            "clicks": 9790,
-            "cpm": 1622.68,
-            "cpc": 8.45,
-            "ctr": 19.2
+            "spend": 83372,
+            "impressions": 51663,
+            "clicks": 9832,
+            "cpm": 1613.77,
+            "cpc": 8.48,
+            "ctr": 19.03
           },
           {
             "thumbnail": "assets/creatives/2026-11/ea1983a26c3eb2af.jpg",
             "ad_name": "Oct26_AXONPHARMA_ACerumen_Baby_Traffic_$880_3897_1",
-            "spend": 191330,
-            "impressions": 216409,
-            "clicks": 15712,
-            "cpm": 884.11,
-            "cpc": 12.18,
-            "ctr": 7.26
+            "spend": 216600,
+            "impressions": 270817,
+            "clicks": 17356,
+            "cpm": 799.8,
+            "cpc": 12.48,
+            "ctr": 6.41
           },
           {
             "thumbnail": "assets/creatives/2026-11/ceb227add655cfc1.jpg",
@@ -5654,146 +5654,146 @@
           {
             "thumbnail": "assets/creatives/2026-11/15a6d853cd503df8.jpg",
             "ad_name": "Nov26_CO_AxonPharma_MARIMER_ADULTO_NACIONAL_Farmatodo_Awareness_COLABORACION",
-            "spend": 515482,
-            "impressions": 711709,
-            "clicks": 4342,
-            "cpm": 724.29,
-            "cpc": 118.72,
+            "spend": 540986,
+            "impressions": 740966,
+            "clicks": 4553,
+            "cpm": 730.11,
+            "cpc": 118.82,
             "ctr": 0.61
           },
           {
             "thumbnail": "assets/creatives/2026-11/59b8bfd76c6170b3.jpg",
             "ad_name": "Nov26_CO_AxonPharma_MARIMER_BABY_NACIONAL_Farmatodo_Awareness_COLABORACION",
-            "spend": 956847,
-            "impressions": 1348583,
-            "clicks": 7753,
-            "cpm": 709.52,
-            "cpc": 123.42,
-            "ctr": 0.57
+            "spend": 995854,
+            "impressions": 1392859,
+            "clicks": 8019,
+            "cpm": 714.97,
+            "cpc": 124.19,
+            "ctr": 0.58
           }
         ],
         "Traffic": [
           {
             "thumbnail": "assets/creatives/2026-11/0a7032f4fa3cbc66.jpg",
             "ad_name": "Nov26_CO_AxonPharma_MARIMER_ADULTO_ANTIOQUIA_Unidrogas_Traffic_Video 2",
-            "spend": 122161,
-            "impressions": 20455,
-            "clicks": 1932,
-            "cpm": 5972.18,
-            "cpc": 63.23,
-            "ctr": 9.45
+            "spend": 125730,
+            "impressions": 20884,
+            "clicks": 1983,
+            "cpm": 6020.4,
+            "cpc": 63.4,
+            "ctr": 9.5
           },
           {
             "thumbnail": "assets/creatives/2026-11/20670cfb2949f67b.jpg",
             "ad_name": "Nov26_CO_AxonPharma_MARIMER_ADULTO_ATLANTICO_Unidrogas_Traffic_Video 2",
-            "spend": 14086,
-            "impressions": 2568,
-            "clicks": 232,
-            "cpm": 5485.2,
-            "cpc": 60.72,
-            "ctr": 9.03
+            "spend": 14308,
+            "impressions": 2605,
+            "clicks": 236,
+            "cpm": 5492.51,
+            "cpc": 60.63,
+            "ctr": 9.06
           },
           {
             "thumbnail": "assets/creatives/2026-11/61dcd4d1bcc5b9f1.jpg",
             "ad_name": "Nov26_CO_AxonPharma_MARIMER_BABY_ANTIOQUIA_Unidrogas_Traffic_Video 2",
-            "spend": 519117,
-            "impressions": 118116,
-            "clicks": 9357,
-            "cpm": 4394.98,
-            "cpc": 55.48,
+            "spend": 523167,
+            "impressions": 118816,
+            "clicks": 9410,
+            "cpm": 4403.17,
+            "cpc": 55.6,
             "ctr": 7.92
           },
           {
             "thumbnail": "assets/creatives/2026-11/8c4da110c33ceca0.jpg",
             "ad_name": "Nov26_CO_AxonPharma_MARIMER_ADULTO_NACIONAL_LaRebaja_Traffic_Video 2",
-            "spend": 289619,
-            "impressions": 57180,
+            "spend": 289635,
+            "impressions": 57183,
             "clicks": 4291,
-            "cpm": 5065.04,
-            "cpc": 67.49,
+            "cpm": 5065.05,
+            "cpc": 67.5,
             "ctr": 7.5
           },
           {
             "thumbnail": "assets/creatives/2026-11/44c30dc6b1982aa0.jpg",
             "ad_name": "Nov26_CO_AxonPharma_MARIMER_ADULTO_ANTIOQUIA_Unidrogas_Traffic_Video 1",
-            "spend": 170458,
-            "impressions": 33876,
-            "clicks": 2530,
-            "cpm": 5031.82,
-            "cpc": 67.37,
-            "ctr": 7.47
+            "spend": 172055,
+            "impressions": 34163,
+            "clicks": 2557,
+            "cpm": 5036.3,
+            "cpc": 67.29,
+            "ctr": 7.48
           },
           {
             "thumbnail": "assets/creatives/2026-11/5a11a32b08de1c7f.jpg",
             "ad_name": "Nov26_CO_AxonPharma_MARIMER_ADULTO_NACIONAL_LaRebaja_Traffic_Video 1",
-            "spend": 524471,
-            "impressions": 104497,
-            "clicks": 7716,
-            "cpm": 5019.01,
-            "cpc": 67.97,
-            "ctr": 7.38
+            "spend": 550574,
+            "impressions": 109106,
+            "clicks": 8060,
+            "cpm": 5046.23,
+            "cpc": 68.31,
+            "ctr": 7.39
           }
         ],
         "TikTok": [
           {
             "thumbnail": "assets/creatives/2026-11/f50a8d5163f1888c.jpg",
             "ad_name": " Oct26_AXONPHARMA_Marimer_Traffic_Post 5_Hipertónico_baby",
-            "spend": 348878,
-            "impressions": 96968,
-            "clicks": 30247,
-            "cpm": 3597.87,
+            "spend": 348954,
+            "impressions": 96999,
+            "clicks": 30252,
+            "cpm": 3597.5,
             "cpc": 11.53,
             "ctr": 31.19
           },
           {
             "thumbnail": "assets/creatives/2026-11/43485c951605e775.jpg",
             "ad_name": " Oct26_AXONPHARMA_Marimer_Traffic_Post 1_Isotónico",
-            "spend": 263530,
-            "impressions": 102105,
-            "clicks": 30832,
-            "cpm": 2580.97,
-            "cpc": 8.55,
-            "ctr": 30.2
+            "spend": 265962,
+            "impressions": 102472,
+            "clicks": 30967,
+            "cpm": 2595.46,
+            "cpc": 8.59,
+            "ctr": 30.22
           },
           {
             "thumbnail": "assets/creatives/2026-11/56b9d6ee6df2f0d3.jpg",
             "ad_name": " Oct26_AXONPHARMA_Marimer_Traffic_Post4_Isotonico",
-            "spend": 634030,
-            "impressions": 158721,
-            "clicks": 41669,
-            "cpm": 3994.62,
-            "cpc": 15.22,
-            "ctr": 26.25
+            "spend": 690536,
+            "impressions": 166841,
+            "clicks": 45076,
+            "cpm": 4138.89,
+            "cpc": 15.32,
+            "ctr": 27.02
           },
           {
             "thumbnail": "assets/creatives/2026-11/9b8786da99341c8c.jpg",
             "ad_name": " Oct26_AXONPHARMA_Marimer_Traffic_Post 3_Isotónico_baby",
-            "spend": 152114,
-            "impressions": 63209,
-            "clicks": 16146,
-            "cpm": 2406.52,
-            "cpc": 9.42,
-            "ctr": 25.54
+            "spend": 157662,
+            "impressions": 64199,
+            "clicks": 16507,
+            "cpm": 2455.83,
+            "cpc": 9.55,
+            "ctr": 25.71
           },
           {
             "thumbnail": "assets/creatives/2026-11/8cded91456629eb2.jpg",
             "ad_name": " Oct26_AXONPHARMA_Marimer_Traffic_Post 2_Hipertónico_baby",
-            "spend": 154052,
-            "impressions": 83291,
-            "clicks": 21096,
-            "cpm": 1849.56,
+            "spend": 154128,
+            "impressions": 83298,
+            "clicks": 21099,
+            "cpm": 1850.32,
             "cpc": 7.3,
             "ctr": 25.33
           },
           {
             "thumbnail": "assets/creatives/2026-11/252b7b43a0917caf.jpg",
             "ad_name": "Oct26_AXONPHARMA_Marimer_Traffic_$1694,83_7506_Post1_Baby",
-            "spend": 3142410,
-            "impressions": 926794,
-            "clicks": 204701,
-            "cpm": 3390.62,
+            "spend": 3220538,
+            "impressions": 951013,
+            "clicks": 209757,
+            "cpm": 3386.43,
             "cpc": 15.35,
-            "ctr": 22.09
+            "ctr": 22.06
           }
         ]
       },
@@ -5802,164 +5802,164 @@
           {
             "thumbnail": "assets/creatives/2026-11/b6f018cb79fffe37.jpg",
             "ad_name": "Nov26_CO_AxonPharma_FLORATIL_BABY_CRUZ VERDE_CruzVerde_Traffic_13-30Nov_VideoNavidad2",
-            "spend": 273643,
-            "impressions": 39645,
-            "clicks": 5182,
-            "cpm": 6902.33,
-            "cpc": 52.81,
+            "spend": 273827,
+            "impressions": 39668,
+            "clicks": 5186,
+            "cpm": 6902.97,
+            "cpc": 52.8,
             "ctr": 13.07
           },
           {
             "thumbnail": "assets/creatives/2026-11/c2c6dddf565dddcd.jpg",
             "ad_name": "Nov26_CO_AxonPharma_FLORATIL_BABY_CRUZ VERDE_CruzVerde_Traffic_13-30Nov_VideoNavidad1",
-            "spend": 433211,
-            "impressions": 61298,
-            "clicks": 7681,
-            "cpm": 7067.29,
-            "cpc": 56.4,
-            "ctr": 12.53
+            "spend": 485600,
+            "impressions": 67563,
+            "clicks": 8428,
+            "cpm": 7187.37,
+            "cpc": 57.62,
+            "ctr": 12.47
           },
           {
             "thumbnail": "assets/creatives/2026-11/09a21465d8cbc9f5.jpg",
             "ad_name": "Nov_CO_AxonPharma_FLORATIL_BABY_BOGOTA_Unidrogas_Traffic_13-30Nov_VideoNavidad2",
-            "spend": 54371,
-            "impressions": 10969,
+            "spend": 54433,
+            "impressions": 10976,
             "clicks": 1273,
-            "cpm": 4956.79,
-            "cpc": 42.71,
-            "ctr": 11.61
+            "cpm": 4959.27,
+            "cpc": 42.76,
+            "ctr": 11.6
           },
           {
             "thumbnail": "assets/creatives/2026-11/ebb1e5b1edd278a3.jpg",
             "ad_name": "Oct26_CO_AxonPharma_FLORATIL_ADULTO_BOGOTA_Cruzverde_Traffic_06-31Oct_Video 1",
-            "spend": 21823,
-            "impressions": 3215,
-            "clicks": 362,
-            "cpm": 6787.87,
-            "cpc": 60.28,
-            "ctr": 11.26
+            "spend": 22380,
+            "impressions": 3307,
+            "clicks": 374,
+            "cpm": 6767.46,
+            "cpc": 59.84,
+            "ctr": 11.31
           },
           {
             "thumbnail": "assets/creatives/2026-11/979dccae59df9f6a.jpg",
             "ad_name": "Nov26_CO_AxonPharma_FLORATIL_ADULTO_ATLANTICO_Unidrogas_Traffic_13-30Nov_VideoNavidad",
-            "spend": 720584,
-            "impressions": 116881,
-            "clicks": 12763,
-            "cpm": 6165.11,
-            "cpc": 56.46,
-            "ctr": 10.92
+            "spend": 773967,
+            "impressions": 124192,
+            "clicks": 13581,
+            "cpm": 6232.02,
+            "cpc": 56.99,
+            "ctr": 10.94
           },
           {
             "thumbnail": "assets/creatives/2026-11/ce97da833a6f85c0.jpg",
             "ad_name": "Nov_CO_AxonPharma_FLORATIL_BABY_BOGOTA_Unidrogas_Traffic_13-30Nov_VideoNavidad1",
-            "spend": 508541,
-            "impressions": 108762,
-            "clicks": 11394,
-            "cpm": 4675.72,
-            "cpc": 44.63,
-            "ctr": 10.48
+            "spend": 539805,
+            "impressions": 113580,
+            "clicks": 11909,
+            "cpm": 4752.64,
+            "cpc": 45.33,
+            "ctr": 10.49
           }
         ],
         "Awareness": [
           {
             "thumbnail": "assets/creatives/2026-11/2914ae692c26fa81.jpg",
             "ad_name": "Colombiano 02",
-            "spend": 832650,
-            "impressions": 1154321,
-            "clicks": 12134,
-            "cpm": 721.33,
-            "cpc": 68.62,
-            "ctr": 1.05
+            "spend": 845819,
+            "impressions": 1169744,
+            "clicks": 12382,
+            "cpm": 723.08,
+            "cpc": 68.31,
+            "ctr": 1.06
           },
           {
             "thumbnail": "assets/creatives/2026-11/02d4e6474139c1e9.jpg",
             "ad_name": "Colombiano 01",
-            "spend": 65927,
-            "impressions": 98032,
-            "clicks": 861,
-            "cpm": 672.5,
-            "cpc": 76.57,
-            "ctr": 0.88
-          },
-          {
-            "thumbnail": "assets/creatives/2026-11/2c5b09f1f272fbd1.jpg",
-            "ad_name": "Ad 02",
-            "spend": 295170,
-            "impressions": 451529,
-            "clicks": 3307,
-            "cpm": 653.71,
-            "cpc": 89.26,
-            "ctr": 0.73
+            "spend": 69723,
+            "impressions": 102433,
+            "clicks": 941,
+            "cpm": 680.67,
+            "cpc": 74.09,
+            "ctr": 0.92
           },
           {
             "thumbnail": "assets/creatives/2026-11/a05c102bae258402.jpg",
             "ad_name": "Colombiano 03",
-            "spend": 13588,
-            "impressions": 16938,
-            "clicks": 115,
-            "cpm": 802.22,
-            "cpc": 118.16,
-            "ctr": 0.68
+            "spend": 26484,
+            "impressions": 31663,
+            "clicks": 259,
+            "cpm": 836.43,
+            "cpc": 102.25,
+            "ctr": 0.82
+          },
+          {
+            "thumbnail": "assets/creatives/2026-11/2c5b09f1f272fbd1.jpg",
+            "ad_name": "Ad 02",
+            "spend": 295221,
+            "impressions": 451585,
+            "clicks": 3308,
+            "cpm": 653.74,
+            "cpc": 89.24,
+            "ctr": 0.73
           },
           {
             "thumbnail": "assets/creatives/2026-11/84ceabc20e5d2854.jpg",
             "ad_name": "Ad 01",
-            "spend": 47390,
-            "impressions": 64550,
-            "clicks": 389,
-            "cpm": 734.16,
-            "cpc": 121.83,
-            "ctr": 0.6
+            "spend": 53558,
+            "impressions": 71658,
+            "clicks": 436,
+            "cpm": 747.41,
+            "cpc": 122.84,
+            "ctr": 0.61
           },
           {
             "thumbnail": "assets/creatives/2026-11/fa0dd4de21a66be7.jpg",
             "ad_name": "Ad 03",
-            "spend": 204861,
-            "impressions": 286742,
-            "clicks": 1594,
-            "cpm": 714.44,
-            "cpc": 128.52,
-            "ctr": 0.56
+            "spend": 231672,
+            "impressions": 317300,
+            "clicks": 1793,
+            "cpm": 730.14,
+            "cpc": 129.21,
+            "ctr": 0.57
           }
         ],
         "TikTok": [
           {
             "thumbnail": "assets/creatives/2026-11/2b709abefb1f7a9f.jpg",
             "ad_name": "Oct26_AXONPHARMA_Floratil_Traffic_AD3",
-            "spend": 1267490,
-            "impressions": 262970,
-            "clicks": 98696,
-            "cpm": 4819.9,
-            "cpc": 12.84,
-            "ctr": 37.53
+            "spend": 1333952,
+            "impressions": 274606,
+            "clicks": 103657,
+            "cpm": 4857.69,
+            "cpc": 12.87,
+            "ctr": 37.75
           },
           {
             "thumbnail": "assets/creatives/2026-11/d3a300e85f0068e9.jpg",
             "ad_name": "Oct26_AXONPHARMA_Floratil_Traffic_AD1",
-            "spend": 10690654,
-            "impressions": 2374113,
-            "clicks": 826745,
-            "cpm": 4503.01,
-            "cpc": 12.93,
-            "ctr": 34.82
+            "spend": 11013160,
+            "impressions": 2435448,
+            "clicks": 849838,
+            "cpm": 4522.03,
+            "cpc": 12.96,
+            "ctr": 34.89
           },
           {
             "thumbnail": "assets/creatives/2026-11/78a4419e183ed402.jpg",
             "ad_name": "Oct26_AXONPHARMA_Floratil_Traffic_AD2",
-            "spend": 605454,
-            "impressions": 151045,
-            "clicks": 48168,
-            "cpm": 4008.43,
-            "cpc": 12.57,
-            "ctr": 31.89
+            "spend": 632700,
+            "impressions": 157300,
+            "clicks": 50176,
+            "cpm": 4022.25,
+            "cpc": 12.61,
+            "ctr": 31.9
           },
           {
             "thumbnail": "assets/creatives/2026-11/704b39b6f363aa70.jpg",
             "ad_name": "Oct26_AXONPHARMA_Floratil_Traffic_Post 1",
             "spend": 45068,
-            "impressions": 25484,
-            "clicks": 7678,
-            "cpm": 1768.48,
+            "impressions": 25492,
+            "clicks": 7680,
+            "cpm": 1767.93,
             "cpc": 5.87,
             "ctr": 30.13
           },
@@ -5967,21 +5967,21 @@
             "thumbnail": "assets/creatives/2026-11/dc4b4f990bfc771f.jpg",
             "ad_name": "Oct26_AXONPHARMA_Floratil_Traffic_Post 5",
             "spend": 28006,
-            "impressions": 15061,
-            "clicks": 4301,
-            "cpm": 1859.5,
+            "impressions": 15072,
+            "clicks": 4302,
+            "cpm": 1858.15,
             "cpc": 6.51,
-            "ctr": 28.56
+            "ctr": 28.54
           },
           {
             "thumbnail": "assets/creatives/2026-11/82babfcedc41b8b2.jpg",
             "ad_name": "Oct26_AXONPHARMA_Floratil_Traffic_Post 2",
-            "spend": 15276,
-            "impressions": 9088,
-            "clicks": 2299,
-            "cpm": 1680.9,
-            "cpc": 6.64,
-            "ctr": 25.3
+            "spend": 15352,
+            "impressions": 9097,
+            "clicks": 2303,
+            "cpm": 1687.59,
+            "cpc": 6.67,
+            "ctr": 25.32
           }
         ]
       }
